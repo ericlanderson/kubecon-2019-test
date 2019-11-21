@@ -1,4 +1,4 @@
-Test
+KubeCon GitOps Tutorial
 ====
 
-Test repository.
+KubeCon GitOps repository.
